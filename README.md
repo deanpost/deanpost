@@ -1,5 +1,5 @@
 # Hello! Welcome to my profile!
-I'm W1-F1 (@deanpost), a i program stuff mostly in HTML5, CSS3 and python.
+I'm W1-F1 (@deanpost), and i program stuff mostly in HTML5, CSS3 and python.
 
 I'm currently learning Javascript and Python. 
 
